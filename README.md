@@ -5,3 +5,5 @@
 이를 win32 어플리케이션의 윈도우위에 차일드윈도우로 임베드하면서 띄우면서 win32와 wpf간의 통신을 하는 예제를 만들었음.
 
 Win32, WPF, C++/CLI가 사용되었음.
+
+![](https://raw.githubusercontent.com/HyundongHwang/WpfWin32Interop/master/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%BA%A1%EC%B3%90.png)
